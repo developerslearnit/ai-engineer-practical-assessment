@@ -1,3 +1,8 @@
 <Solution>
   <Project Path="ExpenseClassifier/ExpenseClassifier.csproj" />
+  <Project Path="ExpenseClassifier.Solution/ExpenseClassifier.Solution.csproj" />
+  <Project Path="ExpenseClassifier.Tests/ExpenseClassifier.Tests.csproj" />
+  <Project Path="ExpenseClassifier.Solution.Tests/ExpenseClassifier.Solution.Tests.csproj" />
+  <Project Path="ExpenseClassifier.MAF/ExpenseClassifier.MAF.csproj" />
+  <Project Path="ExpenseClassifier.MAF.Tests/ExpenseClassifier.MAF.Tests.csproj" />
 </Solution>
